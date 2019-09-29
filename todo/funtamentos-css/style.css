@@ -1,0 +1,35 @@
+p{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justified;
+}
+p, li { font-size: 16px;}
+.special {
+    color: firebrick
+}
+a:visited {
+     color: green
+    }
+a:hover { 
+    color: indigo
+}
+a {
+    text-decoration: none
+}
+h2 {
+    background-color: rgba(135, 204, 250, 0.507);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    border: 5px solid purple;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: #ff0A;
+    font-family: 'Muli', sans-serif;
+    text-align: center;
+
+}
